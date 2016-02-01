@@ -158,6 +158,6 @@ public:
 
 int main(){
 
-    ExternalSorter es("data.txt",7);
-   es.Sort();
+    ExternalSorter es("sample.txt",4);
+    es.Sort();
 }
